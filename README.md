@@ -1,5 +1,5 @@
-# cuantic-computing-with-Harbour
-Cuantic computing simulation with Harbour
+# Quantum computing with Harbour
+Quantum computing simulation with Harbour
 
 Classes prototypes and early concepts
 
